@@ -1,4 +1,4 @@
-[![Header](https://github.com/anubabajide/anubabajide/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://loading.io/asset/403870)]
 
 [![anubabajide.github.io](https://img.shields.io/badge/-Aanu.B-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.anubabajide.github.io/)
 

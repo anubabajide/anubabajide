@@ -19,16 +19,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=spring&logoColor=6DB33F)
-![Flask](https://img.shields.io/badge/-Django-000000?style=flat&logo=spring&logoColor=6DB33F)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=spring&logoColor=6DB33F)
 
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://anubabajide.github.io)
-[![Partner Learn](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;PartnerLearn-000000?style=flat)](https://partner-learn.herokuapp.com/)
-[![Forkify](https://img.shields.io/badge/-📰&nbsp;&nbsp;Forkify-000000?style=flat)](https://anubabajide.github.io/forkify)
-[![WhoAreU?](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;WhoAreU-000000?style=flat)](https://github.com/anubabajide/whoareu-flask)
+[![Partner Learn](https://img.shields.io/badge/-PartnerLearn-000000?style=flat)](https://partner-learn.herokuapp.com/)
+[![Forkify](https://img.shields.io/badge/-Forkify-000000?style=flat)](https://anubabajide.github.io/forkify)
+[![WhoAreU?](https://img.shields.io/badge/-WhoAreU-000000?style=flat)](https://github.com/anubabajide/whoareu-flask)
 
 **Other projects**
 
@@ -36,6 +36,6 @@
 
 <h1>
     <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=anubabajide&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
     </a>
 </h1>

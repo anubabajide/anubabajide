@@ -27,13 +27,13 @@
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://anubabajide.github.io)
-[![Partner Learn](https://img.shields.io/badge/-PartnerLearn-000000?style=flat)](https://partner-learn.herokuapp.com/)
-[![Forkify](https://img.shields.io/badge/-Forkify-000000?style=flat)](https://anubabajide.github.io/forkify)
-[![WhoAreU?](https://img.shields.io/badge/-WhoAreU-000000?style=flat)](https://github.com/anubabajide/whoareu-flask)
+[![Partner Learn](https://img.shields.io/badge/-📗&nbsp;&nbsp;PartnerLearn-000000?style=flat)](https://partner-learn.herokuapp.com/)
+[![Forkify](https://img.shields.io/badge/-🍽️&nbsp;&nbsp;Forkify-000000?style=flat)](https://anubabajide.github.io/forkify)
+[![WhoAreU?](https://img.shields.io/badge/-💁&nbsp;&nbsp;WhoAreU-000000?style=flat)](https://github.com/anubabajide/whoareu-flask)
 
 **Other projects**
 
-[![Maze Runner](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;MazeRunner-000000?style=flat)](https://github.com/anubabajide/Maze-Runner)
+[![Maze Runner](https://img.shields.io/badge/-🤖&nbsp;&nbsp;MazeRunner-000000?style=flat)](https://github.com/anubabajide/Maze-Runner)
 
 <h1>
     <a href="">

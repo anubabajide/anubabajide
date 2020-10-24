@@ -37,7 +37,7 @@
 **Other projects**
 
 [![Maze Runner](https://img.shields.io/badge/🤖-&nbsp;&nbsp;MazeRunner-000000?style=flat)](https://github.com/anubabajide/Maze-Runner)
-[![DSA](https://img.shields.io/badge/📚-&nbsp;&nbsp;Data_Structures_And_Algorithms-000000?style=flat)](https://github.com/anubabajide/Coding-Challenges)
+[![DSA](https://img.shields.io/badge/📚-&nbsp;&nbsp;Data_Structures_And_Algorithms-000000?style=flat)](https://github.com/anubabajide/Data-Structures-and-Algorithms)
 
 <h1>
     <a href="">

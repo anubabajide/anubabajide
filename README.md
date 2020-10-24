@@ -1,6 +1,8 @@
-[![Header](https://github.com/anubabajide/anubabajide/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<h1 align="center">
+  <img src="https://github.com/anubabajide/anubabajide/raw/master/profile.gif"/>
+</h1>
 
-[![anubabajide.github.io](https://img.shields.io/badge/-Aanu.B-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.anubabajide.github.io/)
+[![anubabajide.github.io](https://img.shields.io/badge/-Aanu.B-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://anubabajide.github.io/)
 
 **Languages I have used**
 

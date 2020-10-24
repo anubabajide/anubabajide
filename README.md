@@ -4,12 +4,13 @@
 
 **Languages I have used**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash)
+![Python](https://img.shields.io/badge/Python--000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java--000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript--000000?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C++--000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![TypeScript](https://img.shields.io/badge/TypeScript--000000?style=flat&logo=typescript&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/HTML5--000000?style=flat&logo=HTML5)
+![Bash](https://img.shields.io/badge/Bash--000000?style=flat&logo=bash)
 
 **Some of the technologies I have worked with**
 
@@ -26,15 +27,15 @@
 
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://anubabajide.github.io)
-[![Partner Learn](https://img.shields.io/badge/-📗&nbsp;&nbsp;PartnerLearn-000000?style=flat)](https://partner-learn.herokuapp.com/)
-[![Forkify](https://img.shields.io/badge/-🍽️&nbsp;&nbsp;Forkify-000000?style=flat)](https://anubabajide.github.io/forkify)
-[![WhoAreU?](https://img.shields.io/badge/-💁&nbsp;&nbsp;WhoAreU-000000?style=flat)](https://github.com/anubabajide/whoareu-flask)
+[![My Website](https://img.shields.io/badge/🧬-&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://anubabajide.github.io)
+[![Partner Learn](https://img.shields.io/badge/📗-&nbsp;&nbsp;PartnerLearn-000000?style=flat)](https://partner-learn.herokuapp.com/)
+[![Forkify](https://img.shields.io/badge/🍽️-&nbsp;&nbsp;Forkify-000000?style=flat)](https://anubabajide.github.io/forkify)
+[![WhoAreU?](https://img.shields.io/badge/💁-&nbsp;&nbsp;WhoAreU-000000?style=flat)](https://github.com/anubabajide/whoareu-flask)
 
 **Other projects**
 
-[![Maze Runner](https://img.shields.io/badge/-🤖&nbsp;&nbsp;MazeRunner-000000?style=flat)](https://github.com/anubabajide/Maze-Runner)
-[![DSA](https://img.shields.io/badge/-&nbsp;&nbsp;Data_Structures_And_Algorithms-000000?style=flat)](https://github.com/anubabajide/Coding-Challenges)
+[![Maze Runner](https://img.shields.io/badge/🤖-&nbsp;&nbsp;MazeRunner-000000?style=flat)](https://github.com/anubabajide/Maze-Runner)
+[![DSA](https://img.shields.io/badge/📚-&nbsp;&nbsp;Data_Structures_And_Algorithms-000000?style=flat)](https://github.com/anubabajide/Coding-Challenges)
 
 <h1>
     <a href="">

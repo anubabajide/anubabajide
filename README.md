@@ -13,16 +13,16 @@
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
-![Amazon Web Services](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
-![Google Cloud Platform](https://img.shields.io/badge/-GCP-000000?style=flat&logo=google)
+![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux--000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/Node.js--000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/React--000000?style=flat&logo=React&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django--000000?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/Flask--000000?style=flat&logo=Flask)
+![Docker](https://img.shields.io/badge/Docker--000000?style=flat&logo=Docker)
+![Amazon Web Services](https://img.shields.io/badge/AWS--000000?style=flat&logo=amazon)
+![Google Cloud Platform](https://img.shields.io/badge/GCP--000000?style=flat&logo=google)
 
 **Web/Full Stack projects**
 
@@ -34,6 +34,7 @@
 **Other projects**
 
 [![Maze Runner](https://img.shields.io/badge/-🤖&nbsp;&nbsp;MazeRunner-000000?style=flat)](https://github.com/anubabajide/Maze-Runner)
+[![DSA](https://img.shields.io/badge/-&nbsp;&nbsp;Data_Structures_And_Algorithms-000000?style=flat)](https://github.com/anubabajide/Coding-Challenges)
 
 <h1>
     <a href="">

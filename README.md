@@ -2,7 +2,7 @@
   <img src="https://github.com/anubabajide/anubabajide/raw/master/profile.gif"/>
 </h1>
 
-[![anubabajide.github.io](https://img.shields.io/badge/-Aanu.B-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://anubabajide.github.io/)
+[![anubabajide.github.io](https://img.shields.io/badge/Aanu.B-Software_engineer-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://anubabajide.github.io/)
 
 **Languages I have used**
 

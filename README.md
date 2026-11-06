@@ -5,8 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://anubabajide.github.io"><img src="https://img.shields.io/badge/anubabajide.github.io-0d1117?style=flat-square&logo=githubpages&logoColor=2dd4bf" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/London-0d1117?style=flat-square&logo=googlemaps&logoColor=a78bfa" alt="London" />
+  🌐 <a href="https://anubabajide.github.io">anubabajide.github.io</a> &nbsp;·&nbsp; 📍 London
 </p>
 
 ### 👋 Hey, I'm Aanu
@@ -17,23 +16,11 @@ Software engineer based in London. I like building things end to end, from the A
 
 ### 🧰 Stack
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f1e05a)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=b07219)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=f34b7d)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=89e051)
-
-**Tools** &nbsp;
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img src="./assets/stack-dark.svg" alt="Languages: Python, TypeScript, JavaScript, Java, C++, Bash. Tools: React, Node.js, Django, Flask, Docker, AWS, GCP, Linux." width="100%" />
+</picture>
 
 ### 🛠️ Selected projects
 

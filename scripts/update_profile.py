@@ -4,6 +4,8 @@
 Writes:
   assets/header-{dark,light}.svg  animated banner
   assets/stats-{dark,light}.svg   repo stats + language breakdown
+  assets/stack-{dark,light}.svg   languages / tools strip (icons vendored in
+                                  assets/icons from simple-icons, CC0)
   README.md                       section between RECENT:START / RECENT:END
 
 Stdlib only. Set GITHUB_TOKEN to avoid the 60 req/hr anonymous limit.
@@ -54,6 +56,30 @@ THEMES = {
         "a2": "#7c3aed",
         "track": "#eaeef2",
     },
+}
+
+# (label, simple-icons slug, colour on dark, colour on light). Icons live in
+# assets/icons so the README has no external image dependencies: GitHub's
+# camo proxy times out on third-party badge hosts intermittently.
+STACK = {
+    "LANGUAGES": [
+        ("Python", "python", "#4B8BBE", "#3572A5"),
+        ("TypeScript", "typescript", "#3178C6", "#3178C6"),
+        ("JavaScript", "javascript", "#F7DF1E", "#C9A800"),
+        ("Java", "openjdk", "#E76F00", "#B07219"),
+        ("C++", "cplusplus", "#659AD2", "#00599C"),
+        ("Bash", "gnubash", "#89E051", "#4EAA25"),
+    ],
+    "TOOLS": [
+        ("React", "react", "#61DAFB", "#087EA4"),
+        ("Node.js", "nodedotjs", "#5FA04E", "#5FA04E"),
+        ("Django", "django", "#44B78B", "#092E20"),
+        ("Flask", "flask", "#E6EDF3", "#1F2328"),
+        ("Docker", "docker", "#2496ED", "#2496ED"),
+        ("AWS", "amazonwebservices", "#FF9900", "#232F3E"),
+        ("GCP", "googlecloud", "#4285F4", "#4285F4"),
+        ("Linux", "linux", "#FCC624", "#1F2328"),
+    ],
 }
 
 # Subset of GitHub linguist colours.
@@ -236,6 +262,47 @@ def stats_svg(t: dict, s: dict) -> str:
 """
 
 
+# ------------------------------------------------------------------------- stack
+
+def icon_path(slug: str) -> str:
+    svg = (ASSETS / "icons" / f"{slug}.svg").read_text()
+    m = re.search(r'<path[^>]*\sd="([^"]+)"', svg)
+    if not m:
+        raise SystemExit(f"no path in icon {slug}")
+    return m.group(1)
+
+
+def stack_svg(t: dict, dark: bool) -> str:
+    w, pad = 1200, 64
+    char_w, pill_h, gap = 9.8, 40, 12  # mono 16px ~ 0.6em per glyph
+    body, y = [], 56
+    for label, items in STACK.items():
+        body.append(f'<text class="head" x="{pad}" y="{y}">{label}</text>')
+        x, py = pad, y + 18
+        for name, slug, c_dark, c_light in items:
+            pw = round(16 + 20 + 10 + len(name) * char_w + 18)
+            body.append(
+                f'<g class="pill">'
+                f'<rect x="{x}" y="{py}" width="{pw}" height="{pill_h}" rx="{pill_h // 2}"/>'
+                f'<svg x="{x + 16}" y="{py + 10}" width="20" height="20" viewBox="0 0 24 24">'
+                f'<path fill="{c_dark if dark else c_light}" d="{icon_path(slug)}"/></svg>'
+                f'<text class="name" x="{x + 46}" y="{py + 26}">{escape(name)}</text></g>'
+            )
+            x += pw + gap
+        y += 100
+    h = y - 24
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Languages and tools">
+<style>
+  .head {{ font: 600 13px {MONO}; fill: {t['a1']}; letter-spacing: 1.5px; }}
+  .name {{ font: 500 16px {MONO}; fill: {t['fg']}; }}
+  .pill rect {{ fill: {t['track']}; stroke: {t['border']}; }}
+</style>
+<rect x="1" y="1" width="{w - 2}" height="{h - 2}" rx="16" fill="{t['bg']}" stroke="{t['border']}" stroke-width="1.5"/>
+{''.join(body)}
+</svg>
+"""
+
+
 # ------------------------------------------------------------------------ readme
 
 def recent_md(repos: list[dict]) -> str:
@@ -295,6 +362,7 @@ def main() -> None:
     for name, theme in THEMES.items():
         (ASSETS / f"header-{name}.svg").write_text(header_svg(theme))
         (ASSETS / f"stats-{name}.svg").write_text(stats_svg(theme, stats))
+        (ASSETS / f"stack-{name}.svg").write_text(stack_svg(theme, name == "dark"))
 
     README.write_text(replace_block(README.read_text(), "RECENT", recent_md(recent[:RECENT_COUNT])))
 

@@ -1,46 +1,64 @@
-<h1 align="center">
-  <img src="https://github.com/anubabajide/anubabajide/raw/master/profile.gif"/>
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-dark.svg" alt="Aanuoluwapo Babajide — learner, eater, engineer" width="100%" />
+</picture>
 
-[![anubabajide.github.io](https://img.shields.io/badge/Aanu.B-Software_engineer-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://anubabajide.github.io/)
+<p align="center">
+  <a href="https://anubabajide.github.io"><img src="https://img.shields.io/badge/anubabajide.github.io-0d1117?style=flat-square&logo=githubpages&logoColor=2dd4bf" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/London-0d1117?style=flat-square&logo=googlemaps&logoColor=a78bfa" alt="London" />
+</p>
 
-**Languages I have used**
+### 👋 Hey, I'm Aanu
 
-![Python](https://img.shields.io/badge/Python--000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java--000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript--000000?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/C++--000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![TypeScript](https://img.shields.io/badge/TypeScript--000000?style=flat&logo=typescript&logoColor=007ACC)
-![HTML5](https://img.shields.io/badge/HTML5--000000?style=flat&logo=HTML5)
-![Bash](https://img.shields.io/badge/Bash--000000?style=flat&logo=bash)
+Software engineer based in London. I like building things end to end, from the API to the pixels, and I'm happiest when a hard problem turns into a simple one.
 
-**Some of the technologies I have worked with**
+<!-- TODO: add 1–2 lines about what you're working on / interested in right now -->
 
-![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux--000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/Node.js--000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/React--000000?style=flat&logo=React&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django--000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/Flask--000000?style=flat&logo=Flask)
-![Docker](https://img.shields.io/badge/Docker--000000?style=flat&logo=Docker)
-![Amazon Web Services](https://img.shields.io/badge/AWS--000000?style=flat&logo=amazon)
-![Google Cloud Platform](https://img.shields.io/badge/GCP--000000?style=flat&logo=google)
+### 🧰 Stack
 
-**Web/Full Stack projects**
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f1e05a)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=b07219)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=f34b7d)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=89e051)
 
-[![My Website](https://img.shields.io/badge/🧬-&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://anubabajide.github.io)
-[![Partner Learn](https://img.shields.io/badge/📗-&nbsp;&nbsp;PartnerLearn-000000?style=flat)](https://partner-learn.herokuapp.com/)
-[![Forkify](https://img.shields.io/badge/🍽️-&nbsp;&nbsp;Forkify-000000?style=flat)](https://anubabajide.github.io/forkify)
-[![WhoAreU?](https://img.shields.io/badge/💁-&nbsp;&nbsp;WhoAreU-000000?style=flat)](https://github.com/anubabajide/whoareu-flask)
+**Tools** &nbsp;
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 
-**Other projects**
+### 🛠️ Selected projects
 
-[![Maze Runner](https://img.shields.io/badge/🤖-&nbsp;&nbsp;MazeRunner-000000?style=flat)](https://github.com/anubabajide/Maze-Runner)
-[![DSA](https://img.shields.io/badge/📚-&nbsp;&nbsp;Data_Structures_And_Algorithms-000000?style=flat)](https://github.com/anubabajide/Data-Structures-and-Algorithms)s
+| | Project | What it is |
+|---|---|---|
+| 🏥 | [**epp-me**](https://github.com/anubabajide/epp-me) | Hospital-locating service for web and mobile · React + TypeScript |
+| 🍽️ | [**Forkify**](https://github.com/anubabajide/Forkify) · [live](https://anubabajide.github.io/Forkify/) | Recipe search app · JavaScript |
+| 💁 | [**WhoAreU-Flask**](https://github.com/anubabajide/WhoAreU-Flask) | REST API authentication with Flask · Python |
+| 🎄 | [**Advent-of-Code**](https://github.com/anubabajide/Advent-of-Code) | Advent of Code solutions · Python |
+| 📚 | [**Data-Structures-and-Algorithms**](https://github.com/anubabajide/Data-Structures-and-Algorithms) | Classic DS&A problems, worked through · Python |
 
-<h1>
-    <a>
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=anubabajide&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubabajide&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
+### ⚡ Recently active
+
+<!-- RECENT:START -->
+- [**epp-me**](https://github.com/anubabajide/epp-me) — A hospital locating service fro web and mobile <sub>TypeScript · Feb 2026</sub>
+- [**coursera**](https://github.com/anubabajide/coursera) <sub>Jupyter Notebook · Aug 2023</sub>
+- [**Forkify**](https://github.com/anubabajide/Forkify) — A very simple recipe searching app <sub>JavaScript · Jan 2023</sub>
+- [**mutual-enigma**](https://github.com/anubabajide/mutual-enigma) — Frontend for jiji like website for users to buy and sell <sub>JavaScript · Dec 2022</sub>
+- [**refactored-amala**](https://github.com/anubabajide/refactored-amala) — Backend for jiji like website for users to buy and sell <sub>Python · Dec 2022</sub>
+<!-- RECENT:END -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
+  <img src="./assets/stats-dark.svg" alt="GitHub stats" width="100%" />
+</picture>
+
+<sub>Header, stats and “recently active” are regenerated daily by <a href="./.github/workflows/update-profile.yml">a GitHub Action</a>.</sub>

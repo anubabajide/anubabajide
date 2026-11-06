@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="GitHub stats for anubabajide">
+<style>
+  .big { font: 800 44px ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; fill: #e6edf3; }
+  .label { font: 500 15px ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; fill: #8b949e; }
+  .head { font: 600 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace; fill: #2dd4bf; letter-spacing: 1.5px; }
+  .lang { font: 600 16px ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; fill: #e6edf3; }
+  .pct { font-weight: 400; fill: #8b949e; }
+  .foot { font: 400 12px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace; fill: #8b949e; }
+  .grow { transform-origin: 560px 0; animation: grow 1.2s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @media (prefers-reduced-motion: reduce) { .grow { animation: none; } }
+</style>
+<defs><clipPath id="barclip"><rect x="560" y="84" width="576" height="12" rx="6"/></clipPath></defs>
+<rect x="1" y="1" width="1198" height="218" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<text class="head" x="64" y="56">BY THE NUMBERS</text>
+<text class="head" x="560" y="56">LANGUAGES I WRITE</text>
+<text class="big" x="64" y="112">21</text><text class="label" x="64" y="140">public repos</text><text class="big" x="214" y="112">10</text><text class="label" x="214" y="140">stars earned</text><text class="big" x="364" y="112">7</text><text class="label" x="364" y="140">years on GitHub</text>
+<rect x="560" y="84" width="576" height="12" rx="6" fill="#21262d"/>
+<g clip-path="url(#barclip)"><g class="grow"><rect x="560.0" y="84" width="315.1" height="12" fill="#3572A5"/><rect x="877.1" y="84" width="111.8" height="12" fill="#f1e05a"/><rect x="991.0" y="84" width="88.4" height="12" fill="#e34c26"/><rect x="1081.4" y="84" width="17.9" height="12" fill="#663399"/><rect x="1101.2" y="84" width="14.6" height="12" fill="#b07219"/><rect x="1117.9" y="84" width="12.3" height="12" fill="#3178c6"/></g></g>
+<circle cx="566" cy="128" r="6" fill="#3572A5"/><text class="lang" x="580" y="134">Python <tspan class="pct">55.1%</tspan></text><circle cx="762" cy="128" r="6" fill="#f1e05a"/><text class="lang" x="776" y="134">JavaScript <tspan class="pct">19.8%</tspan></text><circle cx="958" cy="128" r="6" fill="#e34c26"/><text class="lang" x="972" y="134">HTML <tspan class="pct">15.7%</tspan></text><circle cx="566" cy="160" r="6" fill="#663399"/><text class="lang" x="580" y="166">CSS <tspan class="pct">3.5%</tspan></text><circle cx="762" cy="160" r="6" fill="#b07219"/><text class="lang" x="776" y="166">Java <tspan class="pct">2.9%</tspan></text><circle cx="958" cy="160" r="6" fill="#3178c6"/><text class="lang" x="972" y="166">TypeScript <tspan class="pct">2.5%</tspan></text>
+<text class="foot" x="64" y="192">last push 13 Feb 2026 · auto-updated daily</text>
+</svg>

@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
 README = ROOT / "README.md"
 
-NAME = "Aanuoluwapo Babajide"
+NAME = "Aanu Babajide"
 WORDS = ["learner.", "eater.", "engineer."]
 
 # Notebook outputs and generated markup inflate byte counts without saying

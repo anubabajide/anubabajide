@@ -35,11 +35,11 @@ Software engineer based in London. I like building things end to end, from the A
 ### ⚡ Recently active
 
 <!-- RECENT:START -->
+- [**fpl-mcp**](https://github.com/anubabajide/fpl-mcp) — An MCP Plugin for Managing FPL <sub>Python · Nov 2026</sub>
+- [**anubabajide.github.io**](https://github.com/anubabajide/anubabajide.github.io) <sub>HTML · Nov 2026</sub>
 - [**epp-me**](https://github.com/anubabajide/epp-me) — A hospital locating service fro web and mobile <sub>TypeScript · Feb 2026</sub>
 - [**coursera**](https://github.com/anubabajide/coursera) <sub>Jupyter Notebook · Aug 2023</sub>
 - [**Forkify**](https://github.com/anubabajide/Forkify) — A very simple recipe searching app <sub>JavaScript · Jan 2023</sub>
-- [**mutual-enigma**](https://github.com/anubabajide/mutual-enigma) — Frontend for jiji like website for users to buy and sell <sub>JavaScript · Dec 2022</sub>
-- [**refactored-amala**](https://github.com/anubabajide/refactored-amala) — Backend for jiji like website for users to buy and sell <sub>Python · Dec 2022</sub>
 <!-- RECENT:END -->
 
 <picture>
